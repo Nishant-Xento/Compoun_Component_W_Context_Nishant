@@ -1,2 +1,0 @@
-# Compoun_Component_W_Context_Nishant
-Created with CodeSandbox
